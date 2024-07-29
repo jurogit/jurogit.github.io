@@ -126,7 +126,7 @@ about
   font-style: italic;
   padding:25px 15px 15px 75px;
   margin: 60px 0 30px;
-  background: url(..image/arrow_right.png);
+  background: url(../image/arrow_right.png);
   /*background-size: cover;*/
   background-position: center left;
   background-repeat: no-repeat;
